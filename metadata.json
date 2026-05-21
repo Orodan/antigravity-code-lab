@@ -1,0 +1,6 @@
+{
+  "name": "Notes Collaboratives",
+  "description": "Application de prise de notes collaborative en temps réel, accessible instantanément sans authentification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
